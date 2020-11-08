@@ -7,6 +7,7 @@ temp/
 ormconfig.json
 converage
 dist
+yarn-error.log
 
 tmp/*
 !tmp/.gitkeep
